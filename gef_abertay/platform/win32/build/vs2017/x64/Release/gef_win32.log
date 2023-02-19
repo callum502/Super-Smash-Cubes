@@ -1,0 +1,5 @@
+﻿  debug_log_win32.cpp
+  file_win32.cpp
+  platform_win32_null_renderer.cpp
+  window_win32.cpp
+  gef_win32.vcxproj -> C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\x64\Release\gef_win32.lib

@@ -1,0 +1,208 @@
+﻿  audio_3d.cpp
+  audio_emitter.cpp
+  audio_listener.cpp
+  main_d3d11.cpp
+  primitive_builder.cpp
+  scene_app.cpp
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\scene_app.cpp(146,97): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\scene_app.cpp(146,70): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+  bullet.cpp
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\bullet.cpp(21,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\bullet.cpp(24,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  game_object.cpp
+  game_over_state.cpp
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\game_over_state.cpp(15,122): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\game_over_state.cpp(142,150): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\game_over_state.cpp(142,123): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\game_over_state.cpp(143,148): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\game_over_state.cpp(143,121): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\game_over_state.cpp(144,148): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\game_over_state.cpp(144,121): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\game_over_state.cpp(147,55): warning C4305: 'argument': truncation from 'double' to 'const float'
+  instructions_state.cpp
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\instructions_state.cpp(49,60): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\instructions_state.cpp(49,34): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\instructions_state.cpp(58,60): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\instructions_state.cpp(58,34): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\instructions_state.cpp(67,60): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\instructions_state.cpp(67,34): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\instructions_state.cpp(105,150): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\instructions_state.cpp(105,123): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\instructions_state.cpp(106,150): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\instructions_state.cpp(106,123): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\instructions_state.cpp(108,170): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\instructions_state.cpp(108,143): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\instructions_state.cpp(109,170): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\instructions_state.cpp(109,143): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\instructions_state.cpp(110,171): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\instructions_state.cpp(110,144): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\instructions_state.cpp(112,169): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\instructions_state.cpp(112,143): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\instructions_state.cpp(113,169): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\instructions_state.cpp(113,143): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\instructions_state.cpp(114,169): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\instructions_state.cpp(114,143): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\instructions_state.cpp(116,149): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\instructions_state.cpp(116,123): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\instructions_state.cpp(117,157): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\instructions_state.cpp(117,131): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\instructions_state.cpp(118,145): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\instructions_state.cpp(118,119): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\instructions_state.cpp(120,128): warning C4244: 'argument': conversion from 'Int32' to 'float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\instructions_state.cpp(120,108): warning C4244: 'argument': conversion from 'Int32' to 'float', possible loss of data
+  intro_state.cpp
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\intro_state.cpp(17,42): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\intro_state.cpp(20,42): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\intro_state.cpp(38,40): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\intro_state.cpp(52,38): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\intro_state.cpp(53,54): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\intro_state.cpp(132,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\intro_state.cpp(132,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\intro_state.cpp(136,84): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\intro_state.cpp(136,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\intro_state.cpp(140,132): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\intro_state.cpp(140,106): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  in_game_state.cpp
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\in_game_state.cpp(392,70): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\in_game_state.cpp(392,57): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\in_game_state.cpp(403,70): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\in_game_state.cpp(403,59): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\in_game_state.cpp(505,51): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\in_game_state.cpp(512,64): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\in_game_state.cpp(515,63): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\in_game_state.cpp(518,63): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\in_game_state.cpp(521,62): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\in_game_state.cpp(527,43): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\type_traits(1540,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\thread(55): message : see reference to function template instantiation 'void std::invoke<void(__cdecl InGameState::* )(GameObject &,b2Body *,float,float),InGameState*,std::reference_wrapper<GameObject>,b2Body*,int,int>(_Callable &&,_Ty1 &&,std::reference_wrapper<GameObject> &&,b2Body *&&,int &&,int &&) noexcept(false)' being compiled
+          with
+          [
+              _Callable=void (__cdecl InGameState::* )(GameObject &,b2Body *,float,float),
+              _Ty1=InGameState *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\thread(62): message : see reference to function template instantiation 'unsigned int std::thread::_Invoke<_Tuple,0,1,2,3,4,5>(void *) noexcept' being compiled
+          with
+          [
+              _Tuple=_Tuple
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\thread(69): message : see reference to function template instantiation 'unsigned int (__cdecl *std::thread::_Get_invoke<_Tuple,0,1,2,3,4,5>(std::integer_sequence<size_t,0,1,2,3,4,5>) noexcept)(void *)' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\thread(90): message : see reference to function template instantiation 'void std::thread::_Start<_Ty,InGameState*,std::reference_wrapper<GameObject>,b2Body*&,int,int>(_Fn &&,InGameState *&&,std::reference_wrapper<GameObject> &&,b2Body *&,int &&,int &&)' being compiled
+          with
+          [
+              _Ty=void (__cdecl InGameState::* )(GameObject &,b2Body *,float,float),
+              _Fn=void (__cdecl InGameState::* )(GameObject &,b2Body *,float,float)
+          ]
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\in_game_state.cpp(487): message : see reference to function template instantiation 'std::thread::thread<void(__cdecl InGameState::* )(GameObject &,b2Body *,float,float),InGameState*,std::reference_wrapper<GameObject>,b2Body*&,int,int,0>(_Fn &&,InGameState *&&,std::reference_wrapper<GameObject> &&,b2Body *&,int &&,int &&)' being compiled
+          with
+          [
+              _Fn=void (__cdecl InGameState::* )(GameObject &,b2Body *,float,float)
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\type_traits(1540,77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\thread(55): message : see reference to function template instantiation 'void std::invoke<void(__cdecl InGameState::* )(GameObject &,b2Body *,float,float),InGameState*,std::reference_wrapper<GameObject>,b2Body*,double,double>(_Callable &&,_Ty1 &&,std::reference_wrapper<GameObject> &&,b2Body *&&,double &&,double &&) noexcept(false)' being compiled
+          with
+          [
+              _Callable=void (__cdecl InGameState::* )(GameObject &,b2Body *,float,float),
+              _Ty1=InGameState *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\thread(62): message : see reference to function template instantiation 'unsigned int std::thread::_Invoke<_Tuple,0,1,2,3,4,5>(void *) noexcept' being compiled
+          with
+          [
+              _Tuple=_Tuple
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\thread(69): message : see reference to function template instantiation 'unsigned int (__cdecl *std::thread::_Get_invoke<_Tuple,0,1,2,3,4,5>(std::integer_sequence<size_t,0,1,2,3,4,5>) noexcept)(void *)' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\thread(90): message : see reference to function template instantiation 'void std::thread::_Start<_Ty,InGameState*,std::reference_wrapper<GameObject>,b2Body*&,double,double>(_Fn &&,InGameState *&&,std::reference_wrapper<GameObject> &&,b2Body *&,double &&,double &&)' being compiled
+          with
+          [
+              _Ty=void (__cdecl InGameState::* )(GameObject &,b2Body *,float,float),
+              _Fn=void (__cdecl InGameState::* )(GameObject &,b2Body *,float,float)
+          ]
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\in_game_state.cpp(490): message : see reference to function template instantiation 'std::thread::thread<void(__cdecl InGameState::* )(GameObject &,b2Body *,float,float),InGameState*,std::reference_wrapper<GameObject>,b2Body*&,double,double,0>(_Fn &&,InGameState *&&,std::reference_wrapper<GameObject> &&,b2Body *&,double &&,double &&)' being compiled
+          with
+          [
+              _Fn=void (__cdecl InGameState::* )(GameObject &,b2Body *,float,float)
+          ]
+  menu_state.cpp
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\menu_state.cpp(140,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\menu_state.cpp(142,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\menu_state.cpp(144,22): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\menu_state.cpp(146,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\menu_state.cpp(147,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\menu_state.cpp(148,23): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\menu_state.cpp(149,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\menu_state.cpp(150,23): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\menu_state.cpp(151,24): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\menu_state.cpp(156,18): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\menu_state.cpp(157,18): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\menu_state.cpp(158,17): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\menu_state.cpp(159,17): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\menu_state.cpp(160,18): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\menu_state.cpp(161,19): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\menu_state.cpp(162,19): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\menu_state.cpp(163,18): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\menu_state.cpp(165,18): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\menu_state.cpp(189,128): warning C4244: 'argument': conversion from 'Int32' to 'float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\menu_state.cpp(189,108): warning C4244: 'argument': conversion from 'Int32' to 'float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\menu_state.cpp(190,132): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\menu_state.cpp(190,106): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\menu_state.cpp(191,132): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\menu_state.cpp(191,106): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\menu_state.cpp(192,148): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\menu_state.cpp(192,121): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\menu_state.cpp(193,146): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\menu_state.cpp(193,120): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\menu_state.cpp(194,147): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\menu_state.cpp(194,120): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  player.cpp
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\player.cpp(16,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\player.cpp(20,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\player.cpp(77,41): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\player.cpp(88,41): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\player.cpp(172,84): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\player.cpp(239,18): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\player.cpp(242,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\player.cpp(246,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\player.cpp(247,18): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\player.cpp(250,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\player.cpp(254,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\player.cpp(259,19): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\player.cpp(262,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\player.cpp(263,19): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\player.cpp(266,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\player.cpp(267,19): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\player.cpp(270,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\player.cpp(271,19): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\player.cpp(274,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\player.cpp(275,18): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\player.cpp(278,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\player.cpp(279,19): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\player.cpp(282,22): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\player.cpp(287,18): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\player.cpp(299,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\player.cpp(304,19): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\player.cpp(308,18): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\player.cpp(311,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\player.cpp(312,19): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\player.cpp(316,19): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\player.cpp(319,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\player.cpp(320,19): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\player.cpp(323,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\player.cpp(327,22): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\player.cpp(328,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\player.cpp(332,18): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\player.cpp(335,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\player.cpp(336,19): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\player.cpp(339,22): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\player.cpp(340,19): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\player.cpp(358,168): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\player.cpp(358,122): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\player.cpp(363,168): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\player.cpp(363,122): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\player.cpp(378,49): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\player.cpp(392,49): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+  state.cpp
+  Generating code
+  3639 of 3667 functions (99.2%) were compiled, the rest were copied from previous compilation.
+    11 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  scene_app.vcxproj -> C:\Users\callu\OneDrive\Desktop\Portfolio Projects\GEF\build\build\vs2017\x64\Release\scene_app.exe

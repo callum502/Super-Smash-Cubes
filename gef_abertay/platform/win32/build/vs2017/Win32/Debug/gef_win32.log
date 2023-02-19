@@ -1,0 +1,6 @@
+﻿  debug_log_win32.cpp
+  file_win32.cpp
+  platform_win32_null_renderer.cpp
+  window_win32.cpp
+  Generating Code...
+  gef_win32.vcxproj -> C:\Users\Callum\Desktop\CMP208\audio-callum502\build\vs2017\Win32\Debug\gef_win32.lib

@@ -1,0 +1,12 @@
+﻿  in_game_state.cpp
+C:\Users\Callum\Desktop\CMP208\3d_audio-callum502\build\vs2017\in_game_state.cpp(370,70): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Callum\Desktop\CMP208\3d_audio-callum502\build\vs2017\in_game_state.cpp(370,57): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Callum\Desktop\CMP208\3d_audio-callum502\build\vs2017\in_game_state.cpp(394,70): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Callum\Desktop\CMP208\3d_audio-callum502\build\vs2017\in_game_state.cpp(394,59): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\Callum\Desktop\CMP208\3d_audio-callum502\build\vs2017\in_game_state.cpp(696,52): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\Callum\Desktop\CMP208\3d_audio-callum502\build\vs2017\in_game_state.cpp(701,65): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\Callum\Desktop\CMP208\3d_audio-callum502\build\vs2017\in_game_state.cpp(704,64): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\Callum\Desktop\CMP208\3d_audio-callum502\build\vs2017\in_game_state.cpp(707,64): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\Callum\Desktop\CMP208\3d_audio-callum502\build\vs2017\in_game_state.cpp(710,63): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\Callum\Desktop\CMP208\3d_audio-callum502\build\vs2017\in_game_state.cpp(717,44): warning C4305: 'argument': truncation from 'double' to 'const float'
+  scene_app.vcxproj -> C:\Users\Callum\Desktop\CMP208\3d_audio-callum502\build\vs2017\x64\Debug\scene_app.exe
